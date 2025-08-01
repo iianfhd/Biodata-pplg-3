@@ -1,0 +1,110 @@
+[
+        {
+        "Hero" : "Cecilion",
+        "Role" : "Mage",
+        "Ras" : "Blood Demon",
+        "Latar Belakang" : "Cecilion adalah iblis darah yang jatuh cinta pada Carmilla, namun perbedaan asal usul mereka membuat hubungan mereka rumit",
+        "Kelebihan" : {
+            "Hero Late Game" : "Cecilion adalah hero yang bermain late game,ia bisa memimpin tim fight dengan catatan ia di lindungin tank exp",
+            "Skil yang Jauh" : "Skill-skill Cecilion memiliki jangkauan yang luas, membuatnya sulit didekati oleh hero lawan dan memungkinkannya untuk memberikan tekanan dari jarak jauh."
+        },
+        "Kekurangan" :{
+            "Kalah jauh di early game" : "Cecilion jika kalah jauh early maka kesempatan menang di late game akan kecil,karena ada kemungkinan tim cecilion akan kalah cepat",
+            "Mobilitas rendah" : "Cecilion tidak memiliki kemampuan escape yang baik. Jika terkena gank atau serangan mendadak, ia akan kesulitan untuk melarikan diri"
+        },
+        "Lane" : [
+            "Mid"
+        ],
+        "Counter/Recoenter" : {
+            "mengcounter" : "Cecilion bisa mengcounter hero yang jalan kaki karena mudah di mengararhkan skil nya seperti balmon atau terizla",
+            "Counter" : "Cecilion lemah terhadap assasin yang lincah karena mudah di bunuh seperti Fany,Ling,Hayabusa"
+        }
+        
+    },
+    {
+        "Hero" : "Selena",
+        "Role" : "Assasin/Mage",
+        "Ras" : "Dark Elf",
+        "Latar Belakang" : "Gadis Dark Elf yang jatuh ke dalam Abyss",
+        "Kelebihan" : {
+            "Damage Besar" : "Selena memiliki potensi damage yang sangat tinggi, baik di awal maupun akhir permainan. ",
+            "Fleksibilitas" : "Selena bisa dimainkan di role mid atau roam,tergantung kebutuhan tim nya",
+            "Stun" : "Selena memiliki stun yang cukup lama bahkan bisa sampai 5 detik"
+        },
+        "Kekurangan" : {
+            "Sulit menguasai" : "Selena sulit di kuasai oleh pemula dikarenakan selena butuh fokus dan timing untuk menggunakan skil nya",
+            "Durability Rendah" : "Selena walaupun memiliki damage besar tapi ia sangat mudah di bunuh karena HP nya yang rendah"
+        },
+        "Lane" : [
+            "Mid",
+            "Roam"
+        ],
+        "Counter/Recounter" : {
+            "mengcounter" : "Selena bisa dengan membunuh hero yang memiliki darah mobilitas rendah contohnya Layla Gord",
+             "Counter" : "Selena lemah melawan hero yang bisa menghapus crowd control seperti Hanabi atau Wan Wan"
+        }
+    },
+    {
+        "Hero" : "Zhuxinn",
+        "Role" : "Mage",
+        "Ras" : "Human",
+        "Latar Belakang" : "Seorang gadis muda misterius yang memandu kupu-kupu api dengan Lentera Rohnya",
+        "Kelebihan" : {
+            "Damage area" : "Zhuxin mampu memberikan damage area yang signifikan dengan skill-skillnya",
+            "Crowd Control" : "Zhuxin memiliki kemampuan untuk memperlambat gerakan musuh (slow) dan bahkan memberikan efek knock up dengan skill Lantern Flare"
+        },
+        "Kekurangan" : {
+            "Mudah di-lock" : "Zhuxin memiliki HP yang tipis, sehingga mudah di-lock dan dibunuh oleh hero assassin atau hero burst damage lainnya",
+            "Tergantung pada skil" : " Zhuxin sangat bergantung pada skill untuk memberikan damage. Jika skillnya tidak mengenai target, damage yang dihasilkan akan sangat berkurang"
+        },
+        "Lane" : [
+            "Mid"
+        ],
+        "Counter/Recoenter" : {
+            "mengcounter" : "Zhuxin adalah counter bagus untuk hero yang memiliki jangkauan pendek dan yang kurang lincah",
+            "Counter" : "Zhuxin lemah terhadap lawan yang memiliki damage burst tinggi"
+        }
+    },
+    {
+        "Hero" : "Parsha",
+        "Role" : "Mid",
+        "Ras" : "Winged Elf",
+        "Latar Belakang" : "Putri Crow dari Askati Forest",
+        "Kelebihan" : {
+            "Damage area" : "amage area yang besar dari skill ultimate-nya, Feathered Air Strike, yang memungkinkan dia memberikan tekanan pada musuh dari jarak jauh",
+            "Mobilitas tinggi" : "Kemampuan berubah menjadi burung dan terbang memberikan Parsha mobilitas tinggi, memungkinkan dia berpindah tempat dengan cepat dan membantu tim di berbagai lane. "
+        },
+        "Kekurangan" : {
+            "Lemah hero burst" : "Hero dengan burst damage tinggi seperti Granger atau Gusion dapat dengan mudah meng-one shot Pharsa jika tidak berhati-hati atau tidak memiliki item defense yang cukup",
+            "Serangan Terbatas" : "Meskipun skill ultimate Pharsa memiliki jangkauan yang jauh, skill-skill lainnya memiliki jangkauan yang lebih pendek, membuatnya harus mendekat untuk memberikan damage, yang membuatnya rentan terhadap serangan musuh."
+        },
+        "Lane" : [
+            "Mid"
+        ],
+        "Counter/Recoenter" : {
+            "mengcounter" : "Pharsa dapat memberikan Damage burst tinggi untuk hero lawan yang ada di garda belakang",
+            "Counter" : "Pharsa lemah terhadapat hero kejut,karena ketika ia ulti itu bisa di gagalkan dengan stun,airbone,konockback,silent"
+        }
+    },
+    {
+        "Hero" : "Kadita",
+        "Role" : "Mid",
+        "Ras" : "unknown",
+        "Latar Belakang" : "Ratu Putri duyung yang cantik dan kuat",
+        "Kelebihan" : {
+            "Fleksibel dan Mobilitas Tinggi" : "Kadita bisa melakukan serangan dari jarak jauh maupun dekat, dan memiliki kemampuan untuk melarikan diri dengan cepat, menjadikannya hero yang fleksibel di berbagai situasi. ",
+            "Damage Magic Besar:" : "Kadita memiliki damage magic yang tinggi, terutama dengan build item yang tepat,"
+        },
+        "Kekurangan" : {
+            "Ketergantungan pada Skill" : "Kadita sangat bergantung pada penggunaan skill untuk memberikan damage dan bertahan. Jika skill-nya sedang cooldown, ia akan kesulitan untuk menghadapi musuh. ",
+            "Sulit Dikuasai" :"Kadita membutuhkan pemain yang paham betul tentang timing dan positioning untuk memaksimalkan potensinya. Jika tidak dikuasai dengan baik, Kadita bisa menjadi beban bagi tim. "
+        },
+        "Lane" : [
+            "Mid"
+        ],
+        "Counter/Recoenter" : {
+            "mengcounter" : "Kadita sangat unggul mengcounter hero bermobilitas rendah",
+            "counter" : "Kadita mudah di counter Hero jauh dan bermobilitas tinggi"
+        }
+    }
+]
