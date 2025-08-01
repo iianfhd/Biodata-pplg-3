@@ -1,0 +1,30 @@
+[
+    {
+        "Nama" : "Dhafa Febriansa Aljamail Hermawan",
+        "Tempat Lahir" : "Bandung",
+        "Tanggal Lahir" : "28-02-2009",
+        "Alamat" : {
+            "Jalan" : "Saluyu Selatan 01",
+            "Desa" : "Sayati",
+            "Kecamatan" : "Margahayu"
+        },
+        "Hobi" : [
+            "Menggambar",
+            "Mendengarkan Musik",
+            "Bermain game",
+            "Desain"
+        ],
+         "Game" : [
+            "Mobile Legend",
+            "Guardian  Tales",
+            "Roblox",
+            "Free Fire"
+        ],
+        "Kontak" : {
+            "Email" : "moctagram@gmail.com",
+            "Whatsapp" : "+62-822-1158-6515",
+            "Githubb" : "iianfhd",
+            "Instagram" : "iiannfhd"
+        }
+    }
+]
